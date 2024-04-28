@@ -22,7 +22,9 @@ Training Visualization: I included logging and visualization features to track t
 Computer science involves addressing complex problems using computational techniques. This project exemplifies that approach in several key areas:
 
 Problem-Solving: I applied computational methods to train an agent to navigate a maze, showcasing the critical problem-solving skills central to computer science.
+
 Learning and Adaptation: The project utilized reinforcement learning, illustrating how algorithms can learn from experience and adapt to new environments and challenges.
+
 Interdisciplinary Applications: The ideas explored in this project have wide-ranging applications across multiple fields, including robotics, gaming, and artificial intelligence, underscoring the broad scope of computer science.
 
 Ethical Considerations
