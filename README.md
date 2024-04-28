@@ -1,5 +1,7 @@
 Pirate Intelligent Agent - README
+
 Project Overview
+
 In this project, I developed an intelligent agent to navigate a maze and find a treasure while avoiding obstacles. The agent employs a reinforcement learning technique called Deep Q-Learning, where a neural network is used to guide the agent's decision-making process based on past experiences.
 
 Provided Code
