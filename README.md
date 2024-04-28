@@ -5,12 +5,14 @@ Project Overview
 In this project, I developed an intelligent agent to navigate a maze and find a treasure while avoiding obstacles. The agent employs a reinforcement learning technique called Deep Q-Learning, where a neural network is used to guide the agent's decision-making process based on past experiences.
 
 Provided Code
+
 I was given several foundational code files to start with:
 
 TreasureMaze: This code defined the maze environment, including the maze structure, possible agent actions, and the conditions for winning or losing.
 GameExperience: This code handled the experience replay mechanism, storing episodes of agent interactions and retrieving them for training the neural network.
 
 Created Code
+
 I implemented the following:
 
 Deep Q-Learning Algorithm: I created the qtrain function to train the agent using experience replay. This involved exploring the maze, updating the Q-values, and guiding the agent toward the treasure.
